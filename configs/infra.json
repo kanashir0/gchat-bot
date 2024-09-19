@@ -1,0 +1,8 @@
+{
+    "job_name": "infra-daily-meeting-bot",
+    "description": "This cloud scheduler is used to trigger a reminder for infrastructure daily.",
+    "frequency": "30 16 * * mon,wed",
+    "time_zone": "America/Sao_Paulo",
+    "meeting_url": "https://meet.google.com/",
+    "webhook": ""
+}

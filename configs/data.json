@@ -1,0 +1,8 @@
+{
+    "job_name": "data-daily-meeting-bot",
+    "description": "This cloud scheduler is used to trigger a reminder for data daily.",
+    "frequency": "0 11 * * mon,wed,fri",
+    "time_zone": "America/Sao_Paulo",
+    "meeting_url": "https://meet.google.com/",
+    "webhook": ""
+}
